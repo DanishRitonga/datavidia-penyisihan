@@ -1,0 +1,197 @@
+feature,max_abs_correlation,keep
+pm_total,0.9791628887923984,True
+sulfur_dioksida_rollmean_7d,0.9636414190194724,True
+sulfur_dioksida_rollmean_14d,0.9409531806530188,True
+aqi_proxy,0.934761715286795,True
+sulfur_dioksida_rollmean_30d,0.9007458202628392,True
+ozon_rollmean_7d,0.8966697389443651,True
+sulfur_dioksida_lag_7d,0.8922423261123831,True
+ozon_rollmean_14d,0.8722060190609071,True
+gaseous_pollutant_index,0.8679248947080177,True
+nitrogen_dioksida_rollmean_7d,0.859513690262645,True
+karbon_monoksida_rollmean_7d,0.8403356338696915,True
+ozon_rollmean_30d,0.8401859170219416,True
+sulfur_dioksida_lag_14d,0.8329881056280822,True
+pm_duakomalima_rollmean_7d,0.8283915845904423,True
+nitrogen_dioksida_rollmean_14d,0.8268796574799391,True
+pm_sepuluh_rollmean_7d,0.8244083673269857,True
+karbon_monoksida_rollmean_14d,0.8063638489601576,True
+nitrogen_dioksida_rollmean_30d,0.7936039264805336,True
+pm_duakomalima_rollmean_14d,0.7813451791851237,True
+is_unhealthy,0.776187275703566,True
+pm_sepuluh_rollmean_14d,0.7747129476471706,True
+karbon_monoksida_rollmean_30d,0.7713750523798066,True
+ozon_lag_7d,0.7481857622154657,True
+ozon_spike,0.7476247348625368,True
+sulfur_dioksida_lag_30d,0.744838800642604,True
+nitrogen_dioksida_spike,0.730899866366192,True
+ozon_lag_14d,0.7183223118533555,True
+karbon_monoksida_spike,0.715567481571108,True
+pm_duakomalima_rollmean_30d,0.7127798748441905,True
+pm_sepuluh_rollmean_30d,0.7007501646136461,True
+nitrogen_dioksida_lag_7d,0.6776339543437507,True
+ozon_rollstd_30d,0.6685119139088185,True
+ozon_lag_30d,0.6538034867661935,True
+pm_sepuluh_deviation_from_30d_mean,0.6479107733210041,True
+pm_duakomalima_deviation_from_30d_mean,0.6367337574740124,True
+karbon_monoksida_lag_7d,0.6296684595344906,True
+nitrogen_dioksida_lag_14d,0.6278777384959321,True
+pm_duakomalima_spike,0.6096300124894117,True
+sulfur_dioksida_spike,0.6048705699076832,True
+karbon_monoksida_deviation_from_30d_mean,0.5994874045602677,True
+pm_duakomalima_lag_7d,0.5931740368194116,True
+karbon_monoksida_lag_14d,0.591539926273861,True
+pm_sepuluh_lag_7d,0.5864878398213413,True
+unhealthy_days_7d,0.5858763448699625,True
+nitrogen_dioksida_deviation_from_30d_mean,0.5848776061329287,True
+pm_sepuluh_spike,0.5839513899737977,True
+nitrogen_dioksida_lag_30d,0.5810442141582303,True
+pm_sepuluh_deviation_pct,0.5703677036866265,True
+pm_duakomalima_deviation_pct,0.5645995686275765,True
+pm_sepuluh_delta_30d,0.5572598356972275,True
+karbon_monoksida_rollstd_30d,0.5485821482498145,True
+karbon_monoksida_lag_30d,0.5412104015931238,True
+nitrogen_dioksida_rollstd_30d,0.5386709589751876,True
+pm_duakomalima_delta_30d,0.5384714156695641,True
+elevated_pollutant_count,0.5339661912504368,True
+pm_duakomalima_lag_14d,0.5292751840959086,True
+karbon_monoksida_deviation_pct,0.5262075031638416,True
+pm_sepuluh_lag_14d,0.5158828650674491,True
+unhealthy_days_30d,0.5007179994313675,True
+ozon_deviation_from_30d_mean,0.4931678846647304,True
+nitrogen_dioksida_delta_30d,0.4748682043734896,True
+karbon_monoksida_delta_30d,0.4727744028046275,True
+nitrogen_dioksida_deviation_pct,0.45658216530884077,True
+pm_sepuluh_delta_7d,0.45383870943827337,True
+pm_duakomalima_delta_7d,0.44943409218291697,True
+karbon_monoksida_delta_7d,0.429155163614057,True
+ozon_deviation_pct,0.42583920853806534,True
+pm_duakomalima_lag_30d,0.41085516369999275,True
+ozon_delta_30d,0.4080955748526571,True
+nitrogen_dioksida_delta_7d,0.40568407196021095,True
+pm_sepuluh_lag_30d,0.37325878630347203,True
+feels_like_temp,0.372679141054294,True
+karbon_monoksida_delta_1d,0.3657605226770865,True
+sulfur_dioksida_deviation_from_30d_mean,0.35583664049083735,True
+precip_rollsum_14d,0.35442581432970954,True
+precip_rollmean_30d,0.35431098264260413,True
+precip_rollsum_30d,0.3528146434060261,True
+wind_gusts_10m_mean (km/h),0.352524552081486,True
+ozon_delta_7d,0.3518696808598375,True
+pm_sepuluh_delta_1d,0.35088962839501003,True
+rainy_days_30d,0.35032648501332986,True
+sulfur_dioksida_delta_30d,0.34925565227006966,True
+rainy_days_14d,0.3488102732612131,True
+temp_rollstd_30d,0.34605565340098515,True
+precip_rollsum_7d,0.3440169037933848,True
+pm_duakomalima_delta_1d,0.3429619063055547,True
+cloud_cover_mean (%),0.33086058036108634,True
+temperature_2m_max_lag_14d,0.3264004004265229,True
+rainy_days_7d,0.32293438662762153,True
+temperature_2m_max_lag_7d,0.32114211542215304,True
+cloud_cover_min (%),0.31973784063615407,True
+temperature_2m_max (°C),0.31872830060032664,True
+temperature_2m_max_lag_30d,0.31847072389111336,True
+month_cos,0.31656178051967127,True
+wind_direction_10m_dominant (°),0.3165293519166707,True
+winddirection_10m_dominant (°),0.3165293519166707,True
+nitrogen_dioksida_delta_1d,0.31638704780557875,True
+relative_humidity_2m_min (%),0.3158831349541458,True
+wind_speed_10m_mean (km/h),0.3111018036116488,True
+temp_range,0.30948900004616203,True
+wind_gusts_10m_min (km/h),0.301377186124726,True
+temp_rollmean_30d,0.30102759181852534,True
+wind_speed_10m_min (km/h),0.2954150580344072,True
+wind_rain_interaction,0.2903633145767073,True
+precipitation_hours (h),0.2897183067246832,True
+temp_rollmean_14d,0.2851064762399652,True
+shortwave_radiation_sum (MJ/m²),0.2846619480726444,True
+wind_gusts_10m_max (km/h),0.28311874869149994,True
+relative_humidity_2m_mean (%),0.2728016712562775,True
+pm_duakomalima_rollstd_30d,0.27279481451288645,True
+ozon_delta_1d,0.271142842337585,True
+temp_rollmean_7d,0.2688274307157832,True
+pop_growth_rate_1y,0.26732700836480067,True
+temperature_2m_mean (°C),0.2520112612096087,True
+month_sin,0.25198675215936095,True
+pm_fine_ratio,0.25180009379961704,True
+ozon_pct_change_7d,0.24863081022888786,True
+nitrogen_dioksida_pct_change_7d,0.24458500004672593,True
+pop_change_1y,0.24071494819145176,True
+wind_rollmean_7d,0.24037773920842936,True
+pop_log,0.2383625425801728,True
+temp_inversion_proxy,0.23627324424886348,True
+pm_sepuluh_rollstd_30d,0.2345865879986022,True
+precipitation_sum (mm),0.2341199682550603,True
+pm_sepuluh_pct_change_7d,0.2323188954576903,True
+pm_duakomalima_pct_change_7d,0.23149235791502515,True
+sulfur_dioksida_delta_7d,0.22868186425028633,True
+pop_deviation_pct,0.2273985173115897,True
+karbon_monoksida_pct_change_7d,0.22686385845357684,True
+pop_rolling_std_365d,0.22170211703074,True
+populasi,0.22052287440369192,True
+heat_index,0.220406537784427,True
+wind_speed_10m_max (km/h),0.218791603933472,True
+wind_rollmean_30d,0.21062535266008572,True
+is_rainy,0.20985658544288294,True
+dry_spell,0.20968985839403664,True
+pop_deviation_from_365d_mean,0.20370466454497813,True
+days_since_pop_update,0.19936709844208483,True
+pop_rolling_mean_365d,0.1939470332772477,True
+sulfur_dioksida_deviation_pct,0.18719348940654193,True
+ndvi_rollmean_30d,0.18547158705365388,True
+ndvi_rollmean_14d,0.18482161858311089,True
+pop_growth_rate_90d,0.18146370440064297,True
+cloud_cover_max (%),0.1780403157355602,True
+pop_change_90d,0.17532184281242258,True
+ndvi_lag_7d,0.17530397268145653,True
+ndvi,0.1721812229141146,True
+wet_spell,0.17045307893625422,True
+ndvi_lag_14d,0.16496866888666045,True
+ndvi_lag_30d,0.164836947555598,True
+temp_delta_30d,0.16135352390705007,True
+precipitation_sum_lag_7d,0.15962028181994603,True
+surface_pressure_min (hPa),0.158061612594049,True
+surface_pressure_mean (hPa),0.15703595065188708,True
+quarter,0.15698496156360503,True
+surface_pressure_max (hPa),0.15547100436788774,True
+month,0.15492377267238608,True
+day_of_year,0.15474121162687077,True
+sulfur_dioksida_delta_1d,0.1503559972760206,True
+ndvi_lag_60d,0.15020209247588412,True
+stasiun_encoded,0.14470360945525673,True
+precipitation_sum_lag_14d,0.13976700053096747,True
+ndvi_rollstd_30d,0.12923151437836058,True
+temp_humidity_interaction,0.12797135955769684,True
+sulfur_dioksida_rollstd_30d,0.12739657940901242,True
+relative_humidity_2m_max (%),0.12134285351819206,True
+precipitation_sum_lag_30d,0.11881534851559682,True
+temperature_2m_min_lag_30d,0.10998234747800381,True
+temperature_2m_min (°C),0.10722985642169465,True
+wind_change_rate_7d,0.10315094300773059,True
+wind_delta_7d,0.10241760762238959,True
+temp_delta_7d,0.09553236294373564,False
+temp_change_rate_7d,0.09423373852165051,False
+temperature_2m_min_lag_14d,0.09421013597520028,False
+temperature_2m_min_lag_7d,0.09269657082621083,False
+pop_growth_rate_30d,0.0799004168124336,False
+pop_change_30d,0.06651200438943301,False
+precip_delta_7d,0.0650118230594517,False
+sulfur_dioksida_pct_change_7d,0.05871291005365,False
+temp_delta_1d,0.052952602127304294,False
+day_of_week_cos,0.050223153954262585,False
+ndvi_pct_change_30d,0.045546498746161956,False
+precip_delta_1d,0.04059465350739021,False
+day_of_week,0.0361296978850732,False
+day_of_week_sin,0.035465128402390265,False
+is_weekend,0.034142558298868336,False
+pressure_delta_3d,0.034127957271656885,False
+pressure_delta_1d,0.03277305309813112,False
+is_holiday_nasional,0.03248297272931025,False
+day_of_month,0.02669763704567177,False
+ndvi_delta_30d,0.025515155253469844,False
+ndvi_deviation_from_30d_mean,0.024362863043809465,False
+ndvi_delta_14d,0.018131390443035102,False
+ndvi_delta_7d,0.014861042075970268,False
+days_since_ndvi_update,0.011151251308519444,False
+days_since_weather_update,0.0,False

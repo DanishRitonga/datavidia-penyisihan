@@ -1,0 +1,6 @@
+metric,value
+validation_accuracy,0.9642372114078769
+training_samples,12515.0
+validation_samples,2209.0
+num_features,171.0
+num_classes,3.0

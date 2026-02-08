@@ -1,0 +1,171 @@
+aqi_proxy
+cloud_cover_max (%)
+cloud_cover_mean (%)
+cloud_cover_min (%)
+day_of_year
+days_since_pop_update
+dry_spell
+elevated_pollutant_count
+feels_like_temp
+gaseous_pollutant_index
+heat_index
+is_rainy
+is_unhealthy
+karbon_monoksida_delta_1d
+karbon_monoksida_delta_30d
+karbon_monoksida_delta_7d
+karbon_monoksida_deviation_from_30d_mean
+karbon_monoksida_deviation_pct
+karbon_monoksida_lag_14d
+karbon_monoksida_lag_30d
+karbon_monoksida_lag_7d
+karbon_monoksida_pct_change_7d
+karbon_monoksida_rollmean_14d
+karbon_monoksida_rollmean_30d
+karbon_monoksida_rollmean_7d
+karbon_monoksida_rollstd_30d
+karbon_monoksida_spike
+month
+month_cos
+month_sin
+ndvi
+ndvi_lag_14d
+ndvi_lag_30d
+ndvi_lag_60d
+ndvi_lag_7d
+ndvi_rollmean_14d
+ndvi_rollmean_30d
+ndvi_rollstd_30d
+nitrogen_dioksida_delta_1d
+nitrogen_dioksida_delta_30d
+nitrogen_dioksida_delta_7d
+nitrogen_dioksida_deviation_from_30d_mean
+nitrogen_dioksida_deviation_pct
+nitrogen_dioksida_lag_14d
+nitrogen_dioksida_lag_30d
+nitrogen_dioksida_lag_7d
+nitrogen_dioksida_pct_change_7d
+nitrogen_dioksida_rollmean_14d
+nitrogen_dioksida_rollmean_30d
+nitrogen_dioksida_rollmean_7d
+nitrogen_dioksida_rollstd_30d
+nitrogen_dioksida_spike
+ozon_delta_1d
+ozon_delta_30d
+ozon_delta_7d
+ozon_deviation_from_30d_mean
+ozon_deviation_pct
+ozon_lag_14d
+ozon_lag_30d
+ozon_lag_7d
+ozon_pct_change_7d
+ozon_rollmean_14d
+ozon_rollmean_30d
+ozon_rollmean_7d
+ozon_rollstd_30d
+ozon_spike
+pm_duakomalima_delta_1d
+pm_duakomalima_delta_30d
+pm_duakomalima_delta_7d
+pm_duakomalima_deviation_from_30d_mean
+pm_duakomalima_deviation_pct
+pm_duakomalima_lag_14d
+pm_duakomalima_lag_30d
+pm_duakomalima_lag_7d
+pm_duakomalima_pct_change_7d
+pm_duakomalima_rollmean_14d
+pm_duakomalima_rollmean_30d
+pm_duakomalima_rollmean_7d
+pm_duakomalima_rollstd_30d
+pm_duakomalima_spike
+pm_fine_ratio
+pm_sepuluh_delta_1d
+pm_sepuluh_delta_30d
+pm_sepuluh_delta_7d
+pm_sepuluh_deviation_from_30d_mean
+pm_sepuluh_deviation_pct
+pm_sepuluh_lag_14d
+pm_sepuluh_lag_30d
+pm_sepuluh_lag_7d
+pm_sepuluh_pct_change_7d
+pm_sepuluh_rollmean_14d
+pm_sepuluh_rollmean_30d
+pm_sepuluh_rollmean_7d
+pm_sepuluh_rollstd_30d
+pm_sepuluh_spike
+pm_total
+pop_change_1y
+pop_change_90d
+pop_deviation_from_365d_mean
+pop_deviation_pct
+pop_growth_rate_1y
+pop_growth_rate_90d
+pop_log
+pop_rolling_mean_365d
+pop_rolling_std_365d
+populasi
+precip_rollmean_30d
+precip_rollsum_14d
+precip_rollsum_30d
+precip_rollsum_7d
+precipitation_hours (h)
+precipitation_sum (mm)
+precipitation_sum_lag_14d
+precipitation_sum_lag_30d
+precipitation_sum_lag_7d
+quarter
+rainy_days_14d
+rainy_days_30d
+rainy_days_7d
+relative_humidity_2m_max (%)
+relative_humidity_2m_mean (%)
+relative_humidity_2m_min (%)
+shortwave_radiation_sum (MJ/m²)
+stasiun_encoded
+sulfur_dioksida_delta_1d
+sulfur_dioksida_delta_30d
+sulfur_dioksida_delta_7d
+sulfur_dioksida_deviation_from_30d_mean
+sulfur_dioksida_deviation_pct
+sulfur_dioksida_lag_14d
+sulfur_dioksida_lag_30d
+sulfur_dioksida_lag_7d
+sulfur_dioksida_rollmean_14d
+sulfur_dioksida_rollmean_30d
+sulfur_dioksida_rollmean_7d
+sulfur_dioksida_rollstd_30d
+sulfur_dioksida_spike
+surface_pressure_max (hPa)
+surface_pressure_mean (hPa)
+surface_pressure_min (hPa)
+temp_delta_30d
+temp_humidity_interaction
+temp_inversion_proxy
+temp_range
+temp_rollmean_14d
+temp_rollmean_30d
+temp_rollmean_7d
+temp_rollstd_30d
+temperature_2m_max (°C)
+temperature_2m_max_lag_14d
+temperature_2m_max_lag_30d
+temperature_2m_max_lag_7d
+temperature_2m_mean (°C)
+temperature_2m_min (°C)
+temperature_2m_min_lag_30d
+unhealthy_days_30d
+unhealthy_days_7d
+wet_spell
+wind_change_rate_7d
+wind_delta_7d
+wind_direction_10m_dominant (°)
+wind_gusts_10m_max (km/h)
+wind_gusts_10m_mean (km/h)
+wind_gusts_10m_min (km/h)
+wind_rain_interaction
+wind_rollmean_30d
+wind_rollmean_7d
+wind_speed_10m_max (km/h)
+wind_speed_10m_mean (km/h)
+wind_speed_10m_min (km/h)
+winddirection_10m_dominant (°)
