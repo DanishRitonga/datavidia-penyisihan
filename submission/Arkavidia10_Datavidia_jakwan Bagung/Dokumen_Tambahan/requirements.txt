@@ -1,0 +1,18 @@
+# JakwanBagung Package Requirements
+# Jakarta Air Quality Data ETL Pipeline
+
+# Core data processing
+pandas>=2.0.0
+numpy>=1.20.0
+
+# Scientific computing (for interpolation in ETL scripts)
+scipy>=1.10.0
+
+# Date/time handling (enhanced)
+python-dateutil>=2.8.0
+
+# For better CSV handling
+openpyxl>=3.0.0  # For Excel files (river quality data)
+
+# Optional: Progress bars for long-running ETL
+tqdm>=4.65.0
